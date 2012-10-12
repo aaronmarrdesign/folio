@@ -67,6 +67,10 @@ ul.post-meta li{
     display: inline;
 }
 
+ul.post-meta li p{
+    display: inline;
+}
+
 /* Page Structure */
 
 #container{
