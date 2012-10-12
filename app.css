@@ -55,7 +55,7 @@ p.intro {
 
 /* Lists */
 
-ul.post-meta li:first-child{
+ul.post-meta:first-child{
     list-style: none;
 }
 
