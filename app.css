@@ -60,6 +60,7 @@ ul.post-meta{
 padding: 0;
 width: 100%;
 text-align: center;
+margin-top: -16px;
 }
 
 ul.post-meta li.tweetthis::before, ul.post-meta li.timetoread::before{
@@ -76,6 +77,7 @@ ul.post-meta li{
 ul.post-meta li p{
     display: inline;
     font-size: 16px;
+    color: #b4b4b4;
 }
 
 /* Page Structure */
