@@ -57,6 +57,9 @@ p.intro {
 
 ul.post-meta{
     list-style: none;
+padding: 0;
+width: 100%;
+text-align: center;
 }
 
 ul.post-meta li.tweetthis::before, ul.post-meta li.timetoread::before{
@@ -72,6 +75,7 @@ ul.post-meta li{
 
 ul.post-meta li p{
     display: inline;
+    font-size: 16px;
 }
 
 /* Page Structure */
