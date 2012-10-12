@@ -55,15 +55,11 @@ p.intro {
 
 /* Lists */
 
-ul.post-meta:first-child{
+ul.post-meta{
     list-style: none;
 }
 
-ul.post-meta{
-    list-style: disc;
-}
-
-ul.post-meta li::before{
+ul.post-meta.tweetthis li::before{
 content: "•";
 padding: 0 .45em;
 position: relative;
