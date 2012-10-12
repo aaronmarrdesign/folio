@@ -53,6 +53,16 @@ p.intro {
     text-align: left;
 }
 
+/* Lists */
+
+ul.post-meta li:first-child{
+    list-style: none;
+}
+
+ul.post-meta li{
+    display: inline;
+}
+
 /* Page Structure */
 
 #container{
@@ -61,3 +71,4 @@ p.intro {
     background: #fff;
     padding: 4.3%;
 }
+
