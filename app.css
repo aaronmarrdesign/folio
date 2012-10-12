@@ -1,6 +1,10 @@
 
 /* Typography */
 
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
 body {
     font-family: ff-tisa-web-pro;
     background-color: #FFFFFF;
