@@ -59,7 +59,7 @@ ul.post-meta{
     list-style: none;
 }
 
-ul.post-meta.tweetthis li::before{
+ul.post-meta li.tweetthis::before{
 content: "•";
 padding: 0 .45em;
 position: relative;
