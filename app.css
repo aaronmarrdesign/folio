@@ -63,6 +63,13 @@ ul.post-meta{
     list-style: disc;
 }
 
+ul.post-meta li::before{
+content: "•";
+padding: 0 .45em;
+position: relative;
+top: .075em;
+}
+
 ul.post-meta li{
     display: inline;
 }
