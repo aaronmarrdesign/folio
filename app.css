@@ -52,3 +52,10 @@ p.intro {
     color: #AAAAAA;
     text-align: left;
 }
+
+/* Page Structure */
+
+#container{
+    max-width: 900px;
+    margin: 0 auto;
+}
