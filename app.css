@@ -59,6 +59,10 @@ ul.post-meta:first-child{
     list-style: none;
 }
 
+ul.post-meta{
+    list-style: disc;
+}
+
 ul.post-meta li{
     display: inline;
 }
