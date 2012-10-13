@@ -1,7 +1,7 @@
 ---
 layout: article
 title: New blog new platform
-abstract: Curabitur ac ante sit amet elit placerat luctus. Pellentesque quis tellus urna, in euismod mi. Pellentesque ultricies dictum massa, non faucibus ligula iaculis sed.
+abstract: For the past couple of months I've been looking for the perfect platform to run my personal blog. 
 author_twitter: aaronmarruk
 author: Aaron Marr
 categories:
@@ -9,7 +9,7 @@ categories:
 published: true
 ---
 
-For the past couple of months I've been looking for the perfect platform to run my personal blog. I've always been a huge fan of WordPress. It is a great platform for your average Joe wanting to set up a small business Website. There are vast amounts of professional grade themes and plugins that work and look great straight out of the box.
+I've always been a huge fan of WordPress. It is a great platform for your average Joe wanting to set up a small business Website. There are vast amounts of professional grade themes and plugins that work and look great straight out of the box.
 
 However, recently I've found WordPress to be a bit bloated for my particular needs. I want to create a clean and simple blog platform free from clutter so that I can orgainse and present my thoughts and ideas in a clean way. I know this can be done in terms of WordPress themeing, but in terms of the software itself there are many features that I will not use, nor have I ever used before.
 
