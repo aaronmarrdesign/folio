@@ -87,6 +87,10 @@ ul.post-meta li p{
 #container{
     max-width: 810px;
     margin: 0 auto;
-    padding: 2% 8.3%;
+    
+}
+
+#main{
+    /*padding: 2% 8.3%;*/
 }
 
