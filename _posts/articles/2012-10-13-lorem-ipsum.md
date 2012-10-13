@@ -6,6 +6,7 @@ author_twitter: _mql
 author: Michael Aufreiter
 categories:
 - articles
+published: false
 ---
 
 For the past couple of months I've been looking for the perfect platform to run my personal blog. I've always been a huge fan of WordPress. It is a great platform for your average Joe wanting to set up a small business Website. There are vast amounts of professional grade themes and plugins that work and look great straight out of the box.
