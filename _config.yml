@@ -16,5 +16,6 @@ prose:
       abstract: Short summary of your article.
       author_twitter: aaronmarruk
       author: John Doe
+      image: 
       categories:
       - articles
