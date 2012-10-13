@@ -14,6 +14,7 @@ prose:
       layout: article
       title: Your Post Title
       abstract: Short summary of your article.
+      articleimage:
       author_twitter: aaronmarruk
       author: Aaron Marr
       categories:
