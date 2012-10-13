@@ -94,3 +94,13 @@ ul.post-meta li p{
     /*padding: 2% 8.3%;*/
 }
 
+.articleimage{
+    width: 100%;
+max-height: 450px;
+overflow: hidden;
+}
+
+.articleimage img {
+    width: 100%;
+}
+
