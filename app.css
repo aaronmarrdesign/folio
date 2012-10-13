@@ -46,13 +46,13 @@ h3 {
 }
 
 p.intro {
-    font-size: 24px;
-    line-height: 32px;
-    font-style: normal;
-    font-weight: 400;
-    margin-bottom: 35px;
-    color: #AAAAAA;
-    text-align: left;
+    font-size: 36px;
+line-height: 48px;
+font-style: italic;
+font-weight: 400;
+margin-bottom: 35px;
+color: #AAA;
+text-align: left;
 }
 
 /* Lists */
