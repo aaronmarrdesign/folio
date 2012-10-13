@@ -87,7 +87,7 @@ ul.post-meta li p{
 #container{
     max-width: 810px;
     margin: 0 auto;
-    
+    overflow: hidden;
 }
 
 #main{
