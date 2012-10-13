@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<div id="container">
 <div class="article-navigation">
   {% for item in site.categories.articles limit:40 offset:0 %}
     <a class="article-link" href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
@@ -28,4 +28,5 @@ layout: default
   <div class="help post-content">
     {{ content }}
   </div>
+</div>
 </div>
