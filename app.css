@@ -41,9 +41,9 @@ h1, h2, h3{
 
 h1 {
     font-size: 3.75em; /* 60px */
-    line-height: 4em; /* 64px */
-    margin-top: 2em; /* 32px */
-    margin-bottom: 2.938em; /* 47px */
+    line-height: 1.067em; /* 64px */
+    margin-top: 0.533em; /* 32px */
+    margin-bottom: 0.783em; /* 47px */
 }
 
 h2 {
