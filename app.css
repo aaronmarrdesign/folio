@@ -111,3 +111,25 @@ position: relative;
     position: relative;
 }
 
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+body{
+    font-size: 12px;
+}
+
+/* ---------------------------------------------- */
+}
+/* ---------------------------------------------- */
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+body{
+    font-size: 10px;
+}
+
+/* ---------------------------------------------- */
+}
+/* ---------------------------------------------- */
+
