@@ -14,8 +14,8 @@ body {
 }
 
 p {
-    margin-bottom: 2em; /* 32px */
-    line-height: 2.5em; /* 40px */
+    margin-bottom: 1.333em; /* 32px */
+    line-height: 1.667em; /* 40px */
     font-size: 1.5em; /* 24px */
     font-style: normal;
     font-weight: 400;
