@@ -27,6 +27,7 @@ p.date {
     text-transform: uppercase;
     font-style: normal;
     font-weight: 700;
+    font-family: "proxima-nova";
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
