@@ -20,4 +20,10 @@ Recently some of the cooler kids around the internet have been talking about thi
 
 It is possible to run Jekyll via GitHub, meaning you can easily set up a Website running on a rock-solid framework, and better still its free, meaning no hosting charges! As an added bonus, there is an awesome interface to GitHub, prose.io, that is super minimal and really fits in with my vision of the clean and minimal. I thought I would give it a try
 
+### A new way of creating Websites
+
+So far, especially after the initial hiccups of getting the site up and running (thanks Oliver!), I'm really enjoying using Jekyll. From a developer point of view, there really isn't a more simple way to build and manage Websites than using Jekyll on GibHub. The Jekyll templates are tiny, and everything is managed through GitHub which gives an instant feeling of peace of mind somehow. I'm still not sure how Jekyll via GitHub would fare from a client perspective, but from a developers point of view I can say that its awesome.
+
+#### A new way of creating Websites
+
 So far, especially after the initial hiccups of getting the site up and running (thanks Oliver!), I'm really enjoying using Jekyll. From a developer point of view, there really isn't a more simple way to build and manage Websites than using Jekyll on GibHub. The Jekyll templates are tiny, and everything is managed through GitHub which gives an instant feeling of peace of mind somehow. I'm still not sure how Jekyll via GitHub would fare from a client perspective, but from a developers point of view I can say that its awesome.
