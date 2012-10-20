@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    font-family: "open-sans";
+    font-family: "ff-meta-serif-web-pro";
     background-color: #f0f0f0;
     font-size: 16px;
     line-height: 1.5em;
@@ -36,7 +36,7 @@ h1, h2, h3{
     font-style: normal;
     font-weight: 700;
     text-align: center;
-    font-family: "kulturista-web";
+    font-family: "proxima-nova";
 }
 
 h1 {
