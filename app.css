@@ -106,10 +106,10 @@ ul.post-meta li p{
 /* Page Structure */
 
 #container{
-    max-width: 810px;
+    max-width: 960px;
     margin: 0 auto;
     overflow: hidden;
-    padding: 0 8.3%;
+    padding: 0 0;
     background: #fff;
 }
 
