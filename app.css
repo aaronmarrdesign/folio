@@ -129,6 +129,13 @@ position: relative;
     position: relative;
 }
 
+.post{
+     width: 58.5492%;
+  margin-left: 20.7254%;
+  float: left;
+  margin-right: -100%;
+}
+
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 
