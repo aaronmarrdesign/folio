@@ -8,8 +8,8 @@ html {
 
 body {
     font-family: "ff-meta-serif-web-pro";
-    background-color: #f0f0f0;
-    font-size: 16px;
+    background-color: #444444;
+    font-size: 18px;
     line-height: 1.5em;
 }
 
@@ -31,7 +31,9 @@ p.date {
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
-    margin-top: 3em; /* 48px */
+    margin-top: 6em; /* 92px */
+;
+    color: rgb(160, 160, 160);
 }
 
 h1, h2, h3, h4{
@@ -40,6 +42,7 @@ h1, h2, h3, h4{
     text-align: center;
     font-family: "proxima-nova";
     text-transform: uppercase;
+    color: #555;
 }
 
 h1 {
@@ -107,6 +110,7 @@ ul.post-meta li p{
     margin: 0 auto;
     overflow: hidden;
     padding: 0 8.3%;
+    background: #fff;
 }
 
 #main{
