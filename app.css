@@ -8,7 +8,7 @@ html {
 
 body {
     font-family: "ff-meta-serif-web-pro";
-    background-color: #444444;
+    background-color: #222222;
     font-size: 21px;
     line-height: 1.5em;
 }
@@ -129,7 +129,7 @@ ul.post-meta li p{
     margin: 0 auto;
     overflow: hidden;
     padding: 0 0;
-    background: #fff;
+    background: #f1f3f4;
 }
 
 #main{
