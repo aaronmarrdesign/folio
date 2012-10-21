@@ -31,7 +31,7 @@ p {
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
-    margin-top: 3em; /* 48px */ 
+
 
     color: rgb(160, 160, 160);
 }
@@ -45,7 +45,7 @@ p {
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
-    margin-top: 3em; /* 48px */ 
+
 
     color: rgb(160, 160, 160);
 }
@@ -97,7 +97,7 @@ ul.post-meta{
 padding: 0;
 width: 100%;
 text-align: center;
-margin-top: -1em; /* -16px */
+margin-top: 3em; /* 48px */
 }
 
 ul.post-meta li.tweetthis::before, ul.post-meta li.timetoread::before{
