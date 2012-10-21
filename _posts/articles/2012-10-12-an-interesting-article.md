@@ -3,6 +3,7 @@ published: true
 layout: article
 title: An Interesting Article 
 abstract: Technology alone does not bring about meaningful change—people do. Technology can help.
+articleimage: proseio.jpg
 author_twitter: johndoe
 author: John Doe
 categories:
