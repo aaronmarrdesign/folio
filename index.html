@@ -12,7 +12,7 @@ layout: default
 
 {% for item in site.categories.articles limit:10 offset:0 %}
 <div class="articleimage">
-  <img src="img/{{page.articleimage}}" alt="{{page.articleimage}}" />
+  <img src="img/{{item.articleimage}}" alt="{{page.articleimage}}" />
   </div>
 
   <div class="intro">
