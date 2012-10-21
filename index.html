@@ -4,12 +4,12 @@ layout: default
 
 {% for item in site.categories.articles limit:10 offset:0 %}
 <div class='container'>
-<div class="articleimage">
-<img src="img/{{item.articleimage}}" alt="{{item.articleimage}}" />
-</div>
-<div class="post">
-<div class="intro">
-<ul class="post-meta">
+  <div class="articleimage">
+    <img src="img/{{item.articleimage}}" alt="{{item.articleimage}}" />
+  </div>
+  <div class="post">
+    <div class="intro">
+      <ul class="post-meta">
 <li class="date">{{ item.date | date: "%d %B %Y" }}</li>
 <li class="tweetthis"><p>
 <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
@@ -18,7 +18,12 @@ layout: default
 </ul>
 <h1>{{item.title}}</h1>
 <p class="intro">{{item.abstract}}</p>
-<a href="/blog{{item.url}}" class="readmore">Continue Reading</a>
+<!-- <a href="/blog{{item.url}}" class="readmore">Continue Reading</a> -->
+</div>
+<div class="article-wrapper">
+  <div class="help post-content">
+    {{ content }}
+  </div>
 </div>
 </div>
 </div>
