@@ -50,6 +50,11 @@ p {
     color: rgb(160, 160, 160);
 }
 
+.tweetthis a{
+    font-weight: 800;
+    color: rgb(160, 160, 160);
+}
+
 h1, h2, h3, h4{
     font-style: normal;
     font-weight: 800;
