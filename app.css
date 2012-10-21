@@ -43,11 +43,11 @@ p {
     font-family: "proxima-nova";
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
-    margin-bottom: 1.313em; /* 21px; */
+    margin-bottom: 3em; /* 21px; */
 
 
     color: rgb(160, 160, 160);
-}
+width: 100%;display: block;}
 .tweetthis {
     text-align: center;
     text-transform: uppercase;
@@ -137,7 +137,7 @@ ul.post-meta li p{
 /* Page Structure */
 
 .container{
-    max-width: 1140px;
+    max-width: 980px;
     margin: 40px auto 40px auto;
     overflow: hidden;
     padding: 0 0;
