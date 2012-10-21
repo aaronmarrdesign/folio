@@ -11,6 +11,10 @@ layout: default
 
 
 {% for item in site.categories.articles limit:10 offset:0 %}
+<div class="articleimage">
+  <img src="{{site.baseurl}}/img/{{page.articleimage}}" alt="{{page.articleimage}}" />
+  </div>
+  <div class="post">
   <div class="intro">
     <div class="title">{{item.title}}</div>
     <div class="abstract">{{item.abstract}}</div>
@@ -22,5 +26,6 @@ layout: default
       {{ item.content }}
     </div>
   </div>
+</div>
 {% endfor %}
 
