@@ -2,47 +2,28 @@
 layout: default
 ---
 
-
-  {% for item in site.categories.articles limit:40 offset:0 %}
-    <a class="article-link" href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
-      {{item.title}}
-    </a>
-  {% endfor %}
-
-
 {% for item in site.categories.articles limit:10 offset:0 %}
 <div class='container'>
 <div class="articleimage">
-  <img src="img/{{item.articleimage}}" alt="{{page.articleimage}}" />
-  </div>
-<div class="post">
-  <div class="intro">
-
-
-
-    <ul class="post-meta">
-
-  <li class="date">{{ item.date | date: "%d %B %Y" }}</li>
-
-<li class="tweetthis"><p>
-    <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
-    </li> 
-
-</ul>
-
- <h1>{{item.title}}</h1>
-
-    
-    
-    
-  <p class="intro">{{item.abstract}}</p>
+<img src="img/{{item.articleimage}}" alt="{{page.articleimage}}" />
 </div>
-
-  <div class="article-wrapper">
-    <div class="help post-content">
-      {{ item.content }}
-    </div>
-  </div>
+<div class="post">
+<div class="intro">
+<ul class="post-meta">
+<li class="date">{{ item.date | date: "%d %B %Y" }}</li>
+<li class="tweetthis"><p>
+<a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
+</p>
+</li> 
+</ul>
+<h1>{{item.title}}</h1>
+<p class="intro">{{item.abstract}}</p>
+</div>
+<div class="article-wrapper">
+<div class="help post-content">
+{{ item.content }}
+</div>
+</div>
 </div>
 </div>
 {% endfor %}
