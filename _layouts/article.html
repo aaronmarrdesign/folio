@@ -19,14 +19,21 @@ layout: default
   <div class="post">
 
 <div class="intro">
-  <p class="date">{{ page.date | date: "%d %B %Y" }}</p>
+
+<ul class="post-meta">
+
+  <li class="date">{{ page.date | date: "%d %B %Y" }}</li>
+
+<li class="tweetthis"><p>
+    <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com{{page.url}}&text={{page.title}}" target="_blank">Share on Twitter</a> 
+    </li> 
+
+</ul>
+
   <h1>{{page.title}}</h1>
   <ul class="post-meta">
     
-    <!-- <li class="tweetthis"><p>
-    <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com{{page.url}}&text={{page.title}}" target="_blank">Share on Twitter</a> 
-    </p></li> -->
-
+    
     
   <p class="intro">{{page.abstract}}</p>
 </div>

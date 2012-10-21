@@ -22,7 +22,7 @@ p {
     color: #575757;
 }
 
-p.date {
+.date {
     text-align: center;
     text-transform: uppercase;
     font-style: normal;
@@ -32,7 +32,21 @@ p.date {
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
     margin-top: 3em; /* 48px */ 
-;
+
+    color: rgb(160, 160, 160);
+}
+
+.tweetthis {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "proxima-nova";
+    font-size: 0.75em; /* 12px; */
+    margin-top: 0.18em; /* 3px; */
+    margin-bottom: 1.313em; /* 21px; */
+    margin-top: 3em; /* 48px */ 
+
     color: rgb(160, 160, 160);
 }
 
