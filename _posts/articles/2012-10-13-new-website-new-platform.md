@@ -2,7 +2,7 @@
 published: true
 layout: article
 title: New Website, New Platform.
-abstract:For the past couple of months I've been looking for the perfect platform to run my personal blog. With every new project I like to step back and take a look around to find the best way forward.
+abstract: For the past couple of months I've been looking for the perfect platform to run my personal blog. With every new project I like to step back and take a look around to find the best way forward.
 articleimage: aaronface2.jpg
 author_twitter: aaronmarruk
 author: Aaron Marr
