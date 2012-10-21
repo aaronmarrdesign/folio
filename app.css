@@ -9,7 +9,7 @@ html {
 body {
     font-family: "ff-meta-serif-web-pro";
     background-color: #444444;
-    font-size: 16px;
+    font-size: 21px;
     line-height: 1.5em;
 }
 
@@ -149,8 +149,8 @@ position: relative;
 }
 
 .post{
-     width: 58.5492%;
-  margin-left: 20.7254%;
+width: 70.3923%;
+  margin-left: 14.8038%;
   float: left;
   margin-right: -100%;
 }
