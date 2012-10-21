@@ -14,12 +14,27 @@ layout: default
 <div class="articleimage">
   <img src="img/{{item.articleimage}}" alt="{{page.articleimage}}" />
   </div>
-
+<div class="post">
   <div class="intro">
     <div class="title">{{item.title}}</div>
-    <div class="abstract">{{item.abstract}}</div>
-    <div class="meta"> Posted by <a href="http://twitter.com/{{item.author_twitter}}">{{item.author}}</a> on {{ item.date | date: "%B %d, %Y" }} </div>
-  </div>
+
+    <ul class="post-meta">
+
+  <li class="date">{{ item.date | date: "%d %B %Y" }}</li>
+
+<li class="tweetthis"><p>
+    <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
+    </li> 
+
+</ul>
+
+ <h1>{{item.title}}</h1>
+
+    
+    
+    
+  <p class="intro">{{item.abstract}}</p>
+</div>
 
   <div class="article-wrapper">
     <div class="help post-content">
