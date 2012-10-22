@@ -12,11 +12,13 @@ categories:
 
 #### Project Constraints
 
-The project management triangle is the traditional model for illustrating the constraints of a project. The triangle describes the trade-off between scope, cost and time. For a project of a fixed quality, if one of the three factors changes, the others must also be affected. For example, an increase in the scope of a project, usually through the introduction of additional features, will increase the cost or lengthen the timescale of the project, or both.
+The triangle illustrates the relationship between three primary forces in a project. Time is the available time to deliver the project, cost represents the amount of money or resources available and quality represents the fit-to-purpose that the project must achieve to be a success.[1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
+
+These three constraints are often competing constraints: increased scope typically means increased time and increased cost, a tight time constraint could mean increased costs and reduced scope, and a tight budget could mean increased time and reduced scope[2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm
 
 * Reducing the timescale of a project always affects the quality or scope. 
 * Spending less money on a project typically results in removing features from the scope rather than spending less time. Even with a reduced scope, a project usually still stretches to fill the original timescale.
-* An increase in desired quality almost always demands an increase in timescale or cost, rather than a reduced scope.
+* An increase in desired quality almost always demands an increase in timescale or cost, rather than a reduced scope.[WAS Book]
 
 #### Phase Development
 
