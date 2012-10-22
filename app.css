@@ -109,6 +109,10 @@ h4 {
 
 /* Lists */
 
+ul{
+    padding-left: 0;
+}
+
 ul.post-meta{
     list-style: none;
 padding: 0;
