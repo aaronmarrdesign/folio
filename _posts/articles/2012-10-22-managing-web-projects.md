@@ -10,6 +10,18 @@ categories:
 - articles
 ---
 
+#### Project Constraints
+
+The project management triangle is the traditional model for illustrating the constraints of a project. The triangle describes the trade-off between scope, cost and time. For a project of a fixed quality, if one of the three factors changes, the others must also be affected. For example, an increase in the scope of a project, usually through the introduction of additional features, will increase the cost or lengthen the timescale of the project, or both.
+
+* Reducing the timescale of a project always affects the quality or scope. 
+* Spending less money on a project typically results in removing features from the scope rather than spending less time. Even with a reduced scope, a project usually still stretches to fill the original timescale.
+* An increase in desired quality almost always demands an increase in timescale or cost, rather than a reduced scope.
+
+#### Phase Development
+
+Rarely does a web app require all of the planned features to launch. Instaed, only those that produce the minimum viable product are necessary in the first phase. Postpone non-essential features until a later phase of development.
+
 #### Iterative Development
 
 Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
@@ -17,6 +29,7 @@ Iterative devlelopment means you don't have to get everything perfect straight a
 An Iterative process relies on our ability to successfully focus on something for a short period of time, and takes into account our inability to accurately predict how theory becomes reality. By taking short, iterative steps, we can focus on creating brilliance one move at a time, and can evlove our app as we get a better feel for the features that succeed and those that don't turn out as we hoped.
 
 The iterative process happens on two levels. At the higher level, new app features are developed incrementally. For each release the approximate stages of this book are followed: some research, then interface design, coding, a working release and marketing. Check the customer reactions, learn and repeat.
+
 On the lower level, each of the stages is a mini set of iterations in itself, punctuated by testing that informs us whether or not further cycles are required. This holds especially true at the interface and development stages, where a skeleton design or chunk of code can gradually be refined with more detail as it undergoes testing.
 
 If your project has a deadline each high-level iteration should be allotted a specific number of days, so that you can be sure to fit in a number of full iterations, and the learning that comes from them, over the lifetime of the project.
@@ -34,22 +47,12 @@ how often they expect to see movement and change. This is not necessarily a nega
 A deadline needs to positively pressure the team into productivity without being unrealistic and causing the team to opt-out of
 the process.
 
-To decide on the deliverables for an iteration, a risk-driven approach1 is superior to choosing the low-hanging, easy features first. When taking this approach, you should first develop the high-priority/high-risk features followed by high-priority/low-risk and, finally, low-priority/low-risk. Low-priority/high-risk features should be avoided altogether until the app is a proven success.
-
-High-risk features can be identified by:
-
-* Reducing the timescale of a project always affects the quality or scope. 
-* Spending less money on a project typically results in removing features from the scope rather than spending less time. Even with a reduced scope, a project usually still stretches to fill the original timescale.
-* An increase in desired quality almost always demands an increase in timescale or cost, rather than a reduced scope.
-
 #### Risk Driven Development
+
+To decide on the deliverables for an iteration, a risk-driven approach is superior to choosing the low-hanging, easy features first. When taking this approach, you should first develop the high-priority/high-risk features followed by high-priority/low-risk and, finally, low-priority/low-risk. Low-priority/high-risk features should be avoided altogether until the app is a proven success.
 
 High risk features can be identified by:
 * A new or unkown technology
 * Ambigous requirements
 * A complex graphical interface
 * Tasks that cannot be assigned accurate estimates in a development timescale.
-
-#### Phase Development
-
-Rarely does a web app require all of the planned features to launch. Instaed, only those that produce the minimum viable product are necessary in the first phase. Postpone non-essential features until a later phase of development.
