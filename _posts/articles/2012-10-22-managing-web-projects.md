@@ -3,7 +3,7 @@ published: true
 layout: article
 title: Managing Web Projects
 abstract: This post aims to illustrate the basics of managing a Web project. While there may be different approaches, depending on the size of the team or company culture, this post will aim to set out the basic principles of runnning a successful Web project.  
-articleimage: dawn.jpeg
+articleimage: sketchpad.jpeg
 author_twitter: aaronmarruk
 author: Aaron Marr
 categories:
