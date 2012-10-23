@@ -24,7 +24,9 @@ The constraints illustrated by the triangle are often competing: increased scope
 
 #### Phase Development and Minimum Viable Product
 
-Rarely does a web app require all of the planned features to launch. Instaed, only those that produce the minimum viable product are necessary in the first phase. Postpone non-essential features until a later phase of development.
+To keep on top of project deadlines the concept of "minimum viable product" becomes important. Minimum viable product, in essence, is the deliverable that achives all the requirements set out in the scope, without including any non-essential features. 
+
+Phase development is the process of delivering the minimum viable product in the first instance, with any non-essential features left until a later stage of development, sometimes even until after release.
 
 #### Iterative Development
 
