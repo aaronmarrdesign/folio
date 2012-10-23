@@ -176,6 +176,13 @@ overflow: hidden;
   margin-right: -100%;
 }
 
+.post img{
+    margin: 0 auto;
+clear: both;
+max-width: 668px;
+display: block;
+}
+
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 
