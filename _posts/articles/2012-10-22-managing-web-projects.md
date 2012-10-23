@@ -36,9 +36,14 @@ However, it is difficult to iterate the foundations of a project so carefull pla
 
 ![Alt Cost of change](/blog/img/costofchange.jpg)
 
+For example, if you make an scope error and find it during the scope phase it is inexpensive to fix. You merely change a portion of your requirements model. If you do not find it until the design stage, it is more expensive to fix. Not only do you have to change your analysis, you also have to reevaluate and potentially modify the sections of your design based on the faulty analysis. This change is on the order of $10 (you do a little more retyping/remodeling). If you do not find the problem until programming, you need to update your analysis, design, and potentially scrap portions of your code, all because of a missed or misunderstood user requirement. This error is on the order of $100, because of all the wasted development time based on the faulty requirement. Furthermore, if you find the error during the traditional testing stage, it is on the order of $1,000 to fix (you need to update your documentation and scrap/rewrite large portions of code). Finally, if the error gets past you into production, you are looking at a repair cost on the order of $10,000+ to fix (you need to send out update disks, fix the database, restore old data, and rewrite/reprint manuals).
+
+
 Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
 
 An Iterative process relies on our ability to successfully focus on something for a short period of time, and takes into account our inability to accurately predict how theory becomes reality. By taking short, iterative steps, we can focus on creating brilliance one move at a time, and can evlove our app as we get a better feel for the features that succeed and those that don't turn out as we hoped.
+
+![Alt Cost of change](/blog/img/iterativedevelopment.jpg)
 
 The iterative process happens on two levels. At the higher level, new app features are developed incrementally. For each release the approximate stages of this book are followed: some research, then interface design, coding, a working release and marketing. Check the customer reactions, learn and repeat.
 
