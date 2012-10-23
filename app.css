@@ -178,9 +178,9 @@ overflow: hidden;
 
 .post img{
     margin: 0 auto;
-clear: both;
-max-width: 668px;
-display: block;
+    clear: both;
+    max-width: 668px;
+    display: block;
 }
 
 /* iPads (portrait and landscape) ----------- */

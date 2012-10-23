@@ -1,8 +1,8 @@
 ---
 published: true
 layout: article
-title: Managing Web Projects.
-abstract: For the past couple of months I've been looking for the perfect platform to run my personal blog. With every new project I like to step back and take a look around to find the best way forward.
+title: Managing Web Projects
+abstract: This post aims to illustrate the basics of managing a Web project. While there may be different approaches, depending on the size of the team or company culture, this post will aim to set out the basic principles of runnning a successful Web project.   
 articleimage: dawn.jpeg
 author_twitter: aaronmarruk
 author: Aaron Marr
@@ -12,15 +12,15 @@ categories:
 
 #### Project Constraints
 
-The triangle illustrates the relationship between three primary forces in a project. Time is the available time to deliver the project, cost represents the amount of money or resources available and quality represents the fit-to-purpose that the project must achieve to be a success.[1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
+The "Quality Triangle" illustrates the fundemental aspects of a project and their relationship to one another. Time represents the available time in which to deliver the project, cost represents the amount of money or resources available, and scope represents the feature set that the project must deliver in order to be viable. In the middle is quality, which is affected by all the other aspects, and represents the overall quality and  viablity of the project.[1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
 
 ![Alt The quality triangle](/blog/img/quality-triangle.jpg)
 
-These three constraints are often competing constraints: increased scope typically means increased time and increased cost, a tight time constraint could mean increased costs and reduced scope, and a tight budget could mean increased time and reduced scope[2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm
+The constraints illustrated by the triangle are often competing: increased scope usually increases the timescale and cost, less time available could mean increse in cost or reduced scope, and less money and resources available would usually mean an increased time scale or reduced scope.[2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm [WAS Book]
 
-* Reducing the timescale of a project always affects the quality or scope. 
-* Spending less money on a project typically results in removing features from the scope rather than spending less time. Even with a reduced scope, a project usually still stretches to fill the original timescale.
-* An increase in desired quality almost always demands an increase in timescale or cost, rather than a reduced scope.[WAS Book]
+* Reducing the time available always affects the quality or scope. 
+* Less money and resources available usually equates to reduced scode, not less time spent. 
+* Increasing the overall quality should equate to an increase in timescale and resources, rather than a reduced scope.[WAS Book]
 
 #### Phase Development
 
