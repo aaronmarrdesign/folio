@@ -16,10 +16,10 @@ The "Quality Triangle" illustrates the fundemental aspects of a project and thei
 
 ![Alt The quality triangle](/blog/img/quality-triangle.jpg)
 
-The constraints illustrated by the triangle are often competing: increased scope usually increases the timescale and cost, less time available could mean increse in cost or reduced scope, and less money and resources available would usually mean an increased time scale or reduced scope. [2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm [WAS Book]
+The constraints illustrated by the triangle are often competing: increased scope usually increases the timescale and cost, less time available could mean increase in cost or reduced scope, and less money and resources available would usually mean an increased time scale or reduced scope. [2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm [WAS Book]
 
 * Reducing the time available always affects the quality or scope. 
-* Less money and resources available usually equates to reduced scode, not less time spent. 
+* Less money and resources available usually equates to reduced scope, rather than less time spent. 
 * Increasing the overall quality should equate to an increase in timescale and resources, rather than a reduced scope.[WAS Book]
 
 #### Minimum Viable Product and Phase Development
@@ -32,12 +32,19 @@ Phase development is the process of delivering the minimum viable product in the
 
 Iterative development is the process of developing features in an iterative process over time. This means that you don't have to get everything perfect right away. Features may be developed and fine tuned over time. 
 
-However, it is difficult to iterate the foundations of a project so carefull planning technical scoping must be done at the beginning of a project to make sure that the foundations are correct. Changing the foundations of a project is more costly the closer to production that a project is. This can be illustrated by the "cost of change curve" illustrated below:
+However, it is difficult to iterate the foundations of a project so carefull planning and research must be done at the beginning of a project to ensure the foundations are correct. Changing the foundations of a project is more costly the closer to production that a project is. This can be illustrated by the "cost of change curve" illustrated below:
 
 ![Alt Cost of change](/blog/img/costofchange.jpg)
 
-For example, if you make an scope error and find it during the scope phase it is inexpensive to fix. You merely change a portion of your requirements model. If you do not find it until the design stage, it is more expensive to fix. Not only do you have to change your analysis, you also have to reevaluate and potentially modify the sections of your design based on the faulty analysis. This change is on the order of $10 (you do a little more retyping/remodeling). If you do not find the problem until programming, you need to update your analysis, design, and potentially scrap portions of your code, all because of a missed or misunderstood user requirement. This error is on the order of $100, because of all the wasted development time based on the faulty requirement. Furthermore, if you find the error during the traditional testing stage, it is on the order of $1,000 to fix (you need to update your documentation and scrap/rewrite large portions of code). Finally, if the error gets past you into production, you are looking at a repair cost on the order of $10,000+ to fix (you need to send out update disks, fix the database, restore old data, and rewrite/reprint manuals).
+For example, if you make an scope error and find it during the scope phase it is inexpensive to fix. You merely change a portion of your scope. 
 
+If you do not find it until the design stage, it is more expensive to fix. Not only do you have to change and possibly discredit parts of your research, you also have to reevaluate and potentially modify the sections of your design based on the faulty scope. 
+
+If you do not find the problem until devlopment, you need to update your scope, design, and potentially scrap portions of your work done in development, all because of a missed or misunderstood user requirement during scoping. 
+
+Furthermore, if you find the error during the traditional testing stage at the end of production, you need to update your scoping documentation and scrap large portions of work done in development. 
+
+Finally, if the error gets past you into production, you'll need to send out updates, fix databases, restore old data, and rewrite/reprint manuals.
 
 Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
 
