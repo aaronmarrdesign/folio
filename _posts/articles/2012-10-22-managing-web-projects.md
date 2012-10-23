@@ -36,15 +36,13 @@ However, it is difficult to iterate the foundations of a project so carefull pla
 
 ![Alt Cost of change](/blog/img/costofchange.jpg)
 
-For example, if you make an scope error and find it during the scope phase it is inexpensive to fix. You merely change a portion of your scope. 
+* For example, scoping errors found during the scope phase are inexpensive to fix. You merely change a portion of your scope. 
 
-If you do not find it until the design stage, it is more expensive to fix. Not only do you have to change and possibly discredit parts of your research, you also have to reevaluate and potentially modify the sections of your design based on the faulty scope. 
+* Scoping errors found during devlopment are more expensive to fix, you need to update your scope, design, and potentially scrap portions of your work done in development. 
 
-If you do not find the problem until devlopment, you need to update your scope, design, and potentially scrap portions of your work done in development, all because of a missed or misunderstood user requirement during scoping. 
+* Errors found during the traditional testing stage at the end of production are very expensive to fix; you need to update your scoping documentation and scrap large portions of work done in development. 
 
-Furthermore, if you find the error during the traditional testing stage at the end of production, you need to update your scoping documentation and scrap large portions of work done in development. 
-
-Finally, if the error gets past you into production, you'll need to send out updates, fix databases, restore old data, and rewrite/reprint manuals.
+* Finally, errors that get through to production are very expensive to fix. You'll need to send out updates, fix databases, restore old data, and rewrite or reprint manuals.
 
 Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
 
