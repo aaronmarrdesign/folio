@@ -205,7 +205,7 @@ overflow: hidden;
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
 
-.post
+.post{
     /*font-size: 10px;*/
     width: 100%;
   float: left;
