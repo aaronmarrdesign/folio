@@ -22,11 +22,11 @@ The constraints illustrated by the triangle are often competing: increased scope
 * Less money and resources available usually equates to reduced scode, not less time spent. 
 * Increasing the overall quality should equate to an increase in timescale and resources, rather than a reduced scope.[WAS Book]
 
-#### Phase Development and Minimum Viable Product
+#### Minimum Viable Product and Phase Development
 
 To keep on top of project deadlines the concept of "minimum viable product" becomes important. Minimum viable product, in essence, is the deliverable that achives all the requirements set out in the scope, without including any non-essential features. 
 
-Phase development is the process of delivering the minimum viable product in the first instance, with any non-essential features left until a later stage of development, sometimes even until after release.
+Phase development is the process of delivering the minimum viable product in the first instance, with any non-essential features left until a later stage of development, sometimes until after release.
 
 #### Iterative Development
 
