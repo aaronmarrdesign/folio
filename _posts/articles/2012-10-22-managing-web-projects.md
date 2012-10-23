@@ -2,7 +2,7 @@
 published: true
 layout: article
 title: Managing Web Projects
-abstract: This post aims to illustrate the basics of managing a Web project. While there may be different approaches, depending on the size of the team or company culture, this post will aim to set out the basic principles of runnning a successful Web project.   
+abstract: This post aims to illustrate the basics of managing a Web project. While there may be different approaches, depending on the size of the team or company culture, this post will aim to set out the basic principles of runnning a successful Web project.  
 articleimage: dawn.jpeg
 author_twitter: aaronmarruk
 author: Aaron Marr
@@ -43,9 +43,9 @@ Iterative devlelopment means you don't have to get everything perfect straight a
 
 An Iterative process relies on our ability to successfully focus on something for a short period of time, and takes into account our inability to accurately predict how theory becomes reality. By taking short, iterative steps, we can focus on creating brilliance one move at a time, and can evlove our app as we get a better feel for the features that succeed and those that don't turn out as we hoped.
 
-![Alt Cost of change](/blog/img/iterativedevelopment.jpg)
-
 The iterative process happens on two levels. At the higher level, new app features are developed incrementally. For each release the approximate stages of this book are followed: some research, then interface design, coding, a working release and marketing. Check the customer reactions, learn and repeat.
+
+![Alt Cost of change](/blog/img/iterativedevelopment.jpg)
 
 On the lower level, each of the stages is a mini set of iterations in itself, punctuated by testing that informs us whether or not further cycles are required. This holds especially true at the interface and development stages, where a skeleton design or chunk of code can gradually be refined with more detail as it undergoes testing.
 
