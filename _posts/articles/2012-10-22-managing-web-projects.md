@@ -12,17 +12,17 @@ categories:
 
 #### Project Constraints
 
-The "Quality Triangle" illustrates the fundemental aspects of a project and their relationship to one another. Time represents the available time in which to deliver the project, cost represents the amount of money or resources available, and scope represents the feature set that the project must deliver in order to be viable. In the middle is quality, which is affected by all the other aspects, and represents the overall quality and  viablity of the project.[1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
+The "Quality Triangle" illustrates the fundemental aspects of a project and their relationship to one another. Time represents the available time in which to deliver the project, cost represents the amount of money or resources available, and scope represents the feature set that the project must deliver in order to be viable. In the middle is quality, which is affected by all the other aspects, and represents the overall quality and  viablity of the project. [1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
 
 ![Alt The quality triangle](/blog/img/quality-triangle.jpg)
 
-The constraints illustrated by the triangle are often competing: increased scope usually increases the timescale and cost, less time available could mean increse in cost or reduced scope, and less money and resources available would usually mean an increased time scale or reduced scope.[2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm [WAS Book]
+The constraints illustrated by the triangle are often competing: increased scope usually increases the timescale and cost, less time available could mean increse in cost or reduced scope, and less money and resources available would usually mean an increased time scale or reduced scope. [2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm [WAS Book]
 
 * Reducing the time available always affects the quality or scope. 
 * Less money and resources available usually equates to reduced scode, not less time spent. 
 * Increasing the overall quality should equate to an increase in timescale and resources, rather than a reduced scope.[WAS Book]
 
-#### Phase Development
+#### Phase Development and Minimum Viable Product
 
 Rarely does a web app require all of the planned features to launch. Instaed, only those that produce the minimum viable product are necessary in the first phase. Postpone non-essential features until a later phase of development.
 
