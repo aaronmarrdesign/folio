@@ -36,7 +36,7 @@ However, it is difficult to iterate the foundations of a project so carefull pla
 
 ![Alt Cost of change](/blog/img/costofchange.jpg)
 
-* For example, scoping errors found during the scope phase are inexpensive to fix. You merely change a portion of your scope. 
+* Scoping errors found during the scope phase are inexpensive to fix. You merely change a portion of your scope. 
 
 * Scoping errors found during devlopment are more expensive to fix, you need to update your scope, design, and potentially scrap portions of your work done in development. 
 
