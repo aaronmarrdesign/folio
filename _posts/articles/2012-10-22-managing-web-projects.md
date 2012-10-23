@@ -44,8 +44,6 @@ However, it is difficult to iterate the foundations of a project so carefull pla
 
 * Finally, errors that get through to production are very expensive to fix. You'll need to send out updates, fix databases, restore old data, and rewrite or reprint manuals.
 
-Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
-
 An Iterative process relies on our ability to successfully focus on something for a short period of time, and takes into account our inability to accurately predict how theory becomes reality. By taking short, iterative steps, we can focus on creating brilliance one move at a time, and can evlove our app as we get a better feel for the features that succeed and those that don't turn out as we hoped.
 
 The iterative process happens on two levels. At the higher level, new app features are developed incrementally. For each release the approximate stages of this book are followed: some research, then interface design, coding, a working release and marketing. Check the customer reactions, learn and repeat.
