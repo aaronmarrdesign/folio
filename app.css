@@ -186,8 +186,13 @@ overflow: hidden;
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 
-body{
     /*font-size: 12px;*/
+.post{
+  width: 70.3923%;
+  margin-left: 14.8038%;
+  float: left;
+  margin-right: -100%;
+}
 }
 
 
@@ -199,8 +204,13 @@ body{
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-body{
+
+.post
     /*font-size: 10px;*/
+    width: 100%;
+  float: left;
+  clear: left;
+}
 }
 
 /* ---------------------------------------------- */
