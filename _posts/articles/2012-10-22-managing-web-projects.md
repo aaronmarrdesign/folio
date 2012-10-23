@@ -14,6 +14,8 @@ categories:
 
 The triangle illustrates the relationship between three primary forces in a project. Time is the available time to deliver the project, cost represents the amount of money or resources available and quality represents the fit-to-purpose that the project must achieve to be a success.[1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
 
+![Alt The quality triangle](/img/quality-triangle.jpg)
+
 These three constraints are often competing constraints: increased scope typically means increased time and increased cost, a tight time constraint could mean increased costs and reduced scope, and a tight budget could mean increased time and reduced scope[2]http://www.sqa.org.uk/e-learning/ProjMan03CD/page_13.htm
 
 * Reducing the timescale of a project always affects the quality or scope. 
