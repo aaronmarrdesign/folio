@@ -30,6 +30,12 @@ Phase development is the process of delivering the minimum viable product in the
 
 #### Iterative Development
 
+Iterative development is the process of developing features in an iterative process over time. This means that you don't have to get everything perfect right away. Features may be developed and fine tuned over time. 
+
+However, it is difficult to iterate the foundations of a project so carefull planning technical scoping must be done at the beginning of a project to make sure that the foundations are correct. Changing the foundations of a project is more costly the closer to production that a project is. This can be illustrated by the "cost of change curve" illustrated below:
+
+![Alt Cost of change](/blog/img/costofchange.jpg)
+
 Iterative devlelopment means you don't have to get everything perfect straight away. You can fine tune features over time. It is difficult to iterate the foundations on which the app is based. It is possible possible to change the foundations but not without significant cost which may affect the viablility of the project.
 
 An Iterative process relies on our ability to successfully focus on something for a short period of time, and takes into account our inability to accurately predict how theory becomes reality. By taking short, iterative steps, we can focus on creating brilliance one move at a time, and can evlove our app as we get a better feel for the features that succeed and those that don't turn out as we hoped.
