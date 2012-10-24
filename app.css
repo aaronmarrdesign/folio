@@ -106,16 +106,14 @@ h4 {
 }
 
 blockquote{
-    border-left: 4px solid #eee;
+   border-left: 4px solid #EEE;
+margin: 0;
+padding-left: 40px;
 }
 
 blockquote p{
     font-style: italic;
-    font-size: 1.5em; /* 24px */
-    line-height: 1.333em; /* 24px */
-    margin-bottom: 1.333em; /* 29px */
-    margin-top: 43px;
-    letter-spacing: -0.042em; /* -1px; */
+
 }
 
 
