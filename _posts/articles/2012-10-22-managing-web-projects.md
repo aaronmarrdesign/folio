@@ -12,7 +12,7 @@ categories:
 
 #### Project Constraints
 
-The "Quality Triangle" illustrates the fundemental aspects of a project and their relationship to one another. Time represents the available time in which to deliver the project, cost represents the amount of money or resources available, and scope represents the feature set that the project must deliver in order to be viable. In the middle is quality, which is affected by all the other aspects, and represents the overall quality and  viablity of the project. [1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
+The "Silly Quality Triangle" illustrates the fundemental aspects of a project and their relationship to one another. Time represents the available time in which to deliver the project, cost represents the amount of money or resources available, and scope represents the feature set that the project must deliver in order to be viable. In the middle is quality, which is affected by all the other aspects, and represents the overall quality and  viablity of the project. [1]http://www.projectsmart.co.uk/project-management-scope-triangle.html
 
 ![Alt The quality triangle](/blog/img/quality-triangle.jpg)
 
