@@ -155,9 +155,29 @@ ul.post-meta li p{
     max-width: 1140px;
     margin: 40px auto 40px auto;
     overflow: hidden;
+  
+
+
+}
+
+.type-standard{
+    
+
+    
     padding: 0 0;
     background: #FFFFFF;
-    padding-bottom: 3em;
+        padding-bottom: 3em;
+
+}
+
+.type-quote{
+    
+
+    
+    padding: 0 0;
+    background: #2c2c2c;
+        padding-bottom: 3em;
+
 }
 
 #main{
