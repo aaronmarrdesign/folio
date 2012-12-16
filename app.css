@@ -166,7 +166,7 @@ ul.post-meta li p{
 
 .articleimage{
     width: 100%;
-max-height: 450px;
+
 overflow: hidden;
 
     position: relative;
@@ -174,7 +174,7 @@ overflow: hidden;
 }
 
 .articleimage img {
-    max-width: 100%;
+    width: 100%;
     position: relative;
     margin: 0 auto;
     display: block;
