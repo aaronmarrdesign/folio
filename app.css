@@ -211,12 +211,7 @@ overflow: hidden;
     display: block;
 }
 
-.post{
-  width: 58.5492%;
-  margin-left: 20.7254%;
-  float: left;
-  margin-right: -100%;
-}
+
 
 .post img{
     margin: 0 auto;
@@ -238,6 +233,17 @@ overflow: hidden;
     text-align: center;
     color: lightGrey;
 }
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 769px) {
+    .post{
+  width: 58.5492%;
+  margin-left: 20.7254%;
+  float: left;
+  margin-right: -100%;
+}
+}
+
 
 
 /* iPads (portrait and landscape) ----------- */
