@@ -7,7 +7,7 @@ layout: quote
     <a class="article-link" href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
       
     </a>
-
+  {% endfor %}
 </div>
 
   
@@ -18,7 +18,7 @@ layout: quote
 
 <div class="intro">
 
-{% if item.layout == "quote" %}<ul class="post-meta">
+{% if item.layout != "quote" %}<ul class="post-meta">
 
   <li class="date">{{ page.date | date: "%d %B %Y" }}</li>
 
@@ -43,4 +43,3 @@ layout: quote
 </div>
 </div>
 </div>
-  {% endfor %}
