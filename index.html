@@ -18,7 +18,7 @@ layout: default
 </ul>{% endif %}
 <h1>{{item.title}}</h1>
 <p class="intro">{{item.abstract}}</p>
-<a href="/folio{{item.url}}" class="readmore">Continue Reading</a>
+{% if item.layout != "quote" %}<a href="/folio{{item.url}}" class="readmore">Continue Reading</a>{% endif %}
 </div>
 <!--<div class="article-wrapper">
   <div class="help post-content">
