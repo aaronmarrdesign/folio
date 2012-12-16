@@ -1,0 +1,45 @@
+---
+layout: quote
+---
+
+<div class="article-navigation">
+  {% for item in site.categories.articles limit:40 offset:0 %}
+    <a class="article-link" href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
+      
+    </a>
+  {% endfor %}
+</div>
+
+  
+
+<div class="container">
+    
+  <div class="post">
+
+<div class="intro">
+
+<ul class="post-meta">
+
+  <li class="date">{{ page.date | date: "%d %B %Y" }}</li>
+
+<li class="tweetthis"><p>
+    <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{page.url}}&text={{page.title}}" target="_blank">Share on Twitter</a> 
+    </li> 
+
+</ul>
+
+  <h1>THIS IS QUOTE {{page.title}}{{item.layout}}</h1>
+
+    
+    
+    
+  <p class="intro">{{page.abstract}}</p>
+</div>
+
+<div class="article-wrapper">
+  <div class="help post-content">
+    {{ content }}
+  </div>
+</div>
+</div>
+</div>
