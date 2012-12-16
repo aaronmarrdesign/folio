@@ -18,7 +18,7 @@ layout: quote
 
 <div class="intro">
 
-{% if item.layout != "quote" %}<ul class="post-meta">
+{% if page.layout != "quote" %}<ul class="post-meta">
 
   <li class="date">{{ page.date | date: "%d %B %Y" }}</li>
 
@@ -28,7 +28,7 @@ layout: quote
 
 </ul>{% endif %}
 
-  <h1>THIS IS QUOTE {{page.title}}{{item.layout}}</h1>
+  <h1>THIS IS QUOTE {{page.title}}</h1>
 
     
     
