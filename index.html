@@ -5,7 +5,7 @@ layout: default
 {% for item in site.categories.articles limit:10 offset:0 %}
 <div class='container'>
   <div class="articleimage">
-    <img src="img/{{item.articleimage}}" alt="{{item.articleimage}}" />
+    {% if item.articleimage %} <img src="img/{{item.articleimage}}" alt="{{item.articleimage}}" /> | {% endif %}
   </div>
   <div class="post">
     <div class="intro">
