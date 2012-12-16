@@ -226,8 +226,13 @@ overflow: hidden;
 
 #logo{
     display: block;
+    margin: 40px auto 0 auto;
+}
+
+#title{
     margin: 0 auto;
 }
+
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
