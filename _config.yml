@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: /blog
+baseurl: /folio
 exclude:
 - .gitignore
 - README.md
