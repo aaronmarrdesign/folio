@@ -232,6 +232,10 @@ overflow: hidden;
 #title{
     margin: 0 auto;
     display: block;
+    position: relative;
+    width: 200px;
+    text-align: center;
+    color: lightGrey;
 }
 
 
