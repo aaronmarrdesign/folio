@@ -180,6 +180,15 @@ ul.post-meta li p{
 
 }
 
+.type-quote h1{
+    color: #bdbdbd;
+}
+
+.type-quote .intro{
+    color: #bdbdbd;
+    text-align: center;
+}
+
 #main{
     /*padding: 2% 8.3%;*/
 }
