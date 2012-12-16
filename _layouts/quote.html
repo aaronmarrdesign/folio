@@ -18,7 +18,7 @@ layout: quote
 
 <div class="intro">
 
-<ul class="post-meta">
+{% if item.layout == "quote" %}<ul class="post-meta">
 
   <li class="date">{{ page.date | date: "%d %B %Y" }}</li>
 
@@ -26,7 +26,7 @@ layout: quote
     <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{page.url}}&text={{page.title}}" target="_blank">Share on Twitter</a> 
     </li> 
 
-</ul>
+</ul>{% endif %}
 
   <h1>THIS IS QUOTE {{page.title}}{{item.layout}}</h1>
 

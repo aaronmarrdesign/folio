@@ -9,13 +9,13 @@ layout: default
   </div>
   <div class="post">
     <div class="intro">
-     {% if item.layout == "quote" %} <ul class="post-meta">
+      <ul class="post-meta">
 <li class="date">{{ item.date | date: "%d %B %Y" }}</li>
 <li class="tweetthis"><p>
 <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
 </p>
 </li> 
-</ul>{% endif %}
+</ul>
 <h1>{{item.title}}</h1>
 <p class="intro">{{item.abstract}}</p>
 <a href="/folio{{item.url}}" class="readmore">Continue Reading</a>
