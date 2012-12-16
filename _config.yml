@@ -15,6 +15,7 @@ prose:
       title: Your Post Title
       abstract: Short summary of your article.
       articleimage:
+      mediaembed:
       author_twitter: aaronmarruk
       author: Aaron Marr
       categories:

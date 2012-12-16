@@ -6,6 +6,7 @@ layout: default
 <div class='container {% if item.layout == "quote" %}type-quote{% else %}type-standard{% endif %}'>
   <div class="articleimage">
     {% if item.articleimage %} <img src="img/{{item.articleimage}}" alt="{{item.articleimage}}" /> | {% endif %}
+    {% if item.mediaembed %} {{item.mediaembed}} | {% endif %}
   </div>
   <div class="post">
     <div class="intro">
