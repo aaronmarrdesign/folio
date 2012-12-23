@@ -6,8 +6,8 @@ html {
 }
 
 body {
-    font-family: "Helvetica Neue";
-    background-color: #333333;
+    font-family: "proxima-nova";
+    background-color: #363636;
     font-size: 16px;
     line-height: 1.5em;
    
@@ -19,7 +19,7 @@ p {
     font-size: 1em; /* 16px */
     font-style: normal;
     font-weight: 400;
-    color: #575757;
+    color: #727272;
 }
 
 .date {
@@ -27,7 +27,7 @@ p {
     text-transform: uppercase;
     font-style: normal;
     font-weight: 800;
-    font-family: "Helvetica Neue";
+    font-family: "proxima-nova";
     font-size: 0.75em; /* 12px; */
     margin-top: 0.18em; /* 3px; */
     margin-bottom: 1.313em; /* 21px; */
@@ -69,10 +69,10 @@ width: 100%;padding-top: 0px;display: block;}
 
 h1, h2, h3, h4{
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     text-align: center;
-    font-family: "jaf-lapture";
-    color: #555;
+    font-family: "chaparral-pro";
+    color: #696969;
 }
 
 h1 {
@@ -185,6 +185,7 @@ ul.post-meta li p{
 
 .type-quote h1{
     color: #bdbdbd;
+    font-style: italic;
 }
 
 .type-quote .intro{
