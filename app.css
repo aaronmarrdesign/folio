@@ -78,7 +78,7 @@ h1, h2, h3, h4{
 h1 {
     font-size: 3em; /* 48px */
     line-height: 1em; /* 48px */
-    margin-bottom: 0.896em; /* 43px */
+    margin-bottom: 22px; /* 43px */
     letter-spacing: -0.042em; /* -2px; */
 }
 
