@@ -71,7 +71,6 @@ h1, h2, h3, h4{
     font-style: normal;
     font-weight: 600;
     text-align: center;
-    font-family: "chaparral-pro";
     color: #696969;
 }
 
@@ -246,8 +245,8 @@ overflow: hidden;
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 769px) {
     .post{
-  width: 58.5492%;
-  margin-left: 20.7254%;
+ width: 74.4949%;
+  margin-left: 12.7525%;
   float: left;
   margin-right: -100%;
 }
@@ -260,8 +259,8 @@ overflow: hidden;
 
     /*font-size: 12px;*/
 .post{
-  width: 70.3923%;
-  margin-left: 14.8038%;
+ width: 74.4949%;
+  margin-left: 12.7525%;
   float: left;
   margin-right: -100%;
 }
