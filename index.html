@@ -12,14 +12,14 @@ layout: default
     {% if item.mediaembed %} {{item.mediaembed}} | {% endif %}
   </div>
   <div class="post">
-    <div class="intro">
-     {% if item.layout != "quote" %} <ul class="post-meta">
-<li class="date">{{ item.date | date: "%d %B %Y" }}</li>
-<li class="tweetthis"><p>
+    <div class="date">
+     <p>Posted on {% if item.layout != "quote" %} 
+{{ item.date | date: "%d %B %Y" }}</p>
+<p class="tweetthis">
 <a href="http://twitter.com/intent/tweet?url=http://aaronmarruk.github.com/blog{{item.url}}&text={{item.title}}" target="_blank">Share on Twitter</a> 
 </p>
-</li> 
-</ul>{% endif %}
+
+{% endif %}
 <h1>{{item.title}}</h1>
 <p class="intro">{{item.abstract}}</p>
 {% if item.layout != "quote" %}<a href="/folio{{item.url}}" class="readmore">Continue Reading</a>{% endif %}
