@@ -37,7 +37,7 @@ p {
     float: left;
 }
 
-.readmore{text-align: center;
+.readmore{text-align: left;
     text-transform: uppercase;
     font-style: normal;
     font-weight: 800;
@@ -72,7 +72,7 @@ width: 100%;padding-top: 0px;display: block;}
 h1, h2, h3, h4{
     font-style: normal;
     font-weight: 600;
-    text-align: center;
+    text-align: left;
     color: #696969;
 }
 
@@ -133,7 +133,9 @@ text-align: center;
 
     margin-top: 32px; /* 48px */
 ;
-    margin-bottom: -7px;
+    margin-bottom: 20px;
+    float: left;
+    border-bottom: 4px solid #333;
 }
 
 ul.post-meta li.tweetthis::before, ul.post-meta li.timetoread::before{
