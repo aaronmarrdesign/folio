@@ -34,6 +34,7 @@ p {
 
 
     color: #A0A0A0;
+    float: left;
 }
 
 .readmore{text-align: center;
@@ -60,6 +61,7 @@ width: 100%;padding-top: 0px;display: block;}
 
 
     color: rgb(160, 160, 160);
+    float: right;
 }
 
 .tweetthis a{
