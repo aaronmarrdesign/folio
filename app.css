@@ -6,8 +6,8 @@ html {
 }
 
 body {
-    font-family: "ff-tisa-web-pro";
-    background-color: rgb(58, 58, 58);
+    font-family: "skolar";
+    background-color: rgb(231, 231, 231);
     font-size: 16px;
     line-height: 1.5em;
    
@@ -19,7 +19,7 @@ p {
     font-size: 1em; /* 16px */
     font-style: normal;
     font-weight: 400;
-    color: #727272;
+    color: rgb(66, 66, 66);
 }
 
 .date {
@@ -39,7 +39,7 @@ p {
     text-transform: uppercase;
     font-style: normal;
     font-weight: 800;
-    font-family: "proxima-nova";
+    font-family: "calluna";
     font-size: 0.75em; /* 12px; */
     margin-top: 25px; /* 3px; */
     margin-bottom: 0px; /* 21px; */
@@ -70,7 +70,6 @@ h1, h2, h3, h4{
     font-weight: 500;
     text-align: left;
     color: #696969;
-    font-family: "proxima-nova";
 }
 
 h1 {
@@ -101,6 +100,8 @@ h4 {
     line-height: 1em; /* 16px */
     margin-bottom: 1.625em; /* 26px */
     margin-top: 2.813em; /* 45px; */
+;
+    font-weight: 700;
 }
 
 blockquote{
@@ -132,7 +133,7 @@ text-align: center;
 ;
     margin-bottom: 67px;
     float: left;
-    border-bottom: 4px solid #333;
+    border-bottom: 4px solid rgb(150, 150, 150);
 }
 
 ul.post-meta li.tweetthis::before, ul.post-meta li.timetoread::before{
