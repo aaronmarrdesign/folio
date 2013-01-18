@@ -7,7 +7,7 @@ html {
 
 body {
     font-family: "ff-tisa-web-pro";
-    background-color: #FFFFFF;
+    background-color: rgb(58, 58, 58);
     font-size: 16px;
     line-height: 1.5em;
    
@@ -155,7 +155,7 @@ ul.post-meta li p{
 /* Page Structure */
 
 .container{
-    max-width: 630px;
+    max-width: 980px;
     margin: 40px auto 40px auto;
     overflow: hidden;
   
@@ -170,7 +170,8 @@ ul.post-meta li p{
     padding: 0 0;
     background: #FFFFFF;
         padding-bottom: 3em;
-
+         
+    width: 100%;      
 }
 
 .type-quote{
@@ -247,6 +248,7 @@ overflow: hidden;
 @media only screen and (min-device-width : 769px) {
     .post{
   float: left;
+  width: 65.9933%;   margin-left: 17.0034%;   float: left;   margin-right: -100%;
 }
 }
 
